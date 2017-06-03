@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
@@ -40,8 +40,7 @@ DEFAULT_PAGINATION = 10
 INDEX_SAVE_AS = 'index.html'
 
 # 自定义
-TMP_HOME_PATH = os.environ["HOME"]
-THEME = os.path.join(TMP_HOME_PATH, "./pelican-themes/Flex")
+THEME = "./themes/Flex"
 
 MENUITEMS = (
              ('Archives', '/archives.html'),
