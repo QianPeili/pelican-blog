@@ -45,6 +45,7 @@ THEME = "./themes/Flex"
 MENUITEMS = (
              ('Archives', '/archives.html'),
              ('Categories', '/categories.html'),
+             ('Authors', '/authors.html'),
              ('Tags', '/tags.html'),)
 
 GOOGLE_ANALYTICS  = "UA-100449520-1"

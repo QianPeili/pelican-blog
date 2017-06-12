@@ -1,7 +1,7 @@
 Title: tcp经受时延
 Date: 2017-05-20 16:15
-Category: note
-Authors: perrie
+Category: Note
+Authors: QianPeili
 
 学 `TCP/IP` 协议听到最多的就是三次握手和四次挥手协议了吧。由于最近在折腾 `tcpdump` ，就想着实战抓一下 `tcp` 协议的这个握手和挥手协议。于是我在本地向内网测试机器的服务上发起了一个
  `POST` 请求，抓到如下信息：
