@@ -50,5 +50,8 @@ MENUITEMS = (
 
 GOOGLE_ANALYTICS  = "UA-100449520-1"
 
+COPYRIGHT_NAME = "QianPeili"
+
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
