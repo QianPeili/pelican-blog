@@ -28,7 +28,7 @@ HOME_HIDE_TAGS =True
 
 # Blogroll
 LINKS = (
-         ('About', 'https://github.com/QianPeili'),
+         ('About', '/about-me.html'),
          ('Email', 'mailto:qianperry@outlook.com'),
         )
 
