@@ -1,6 +1,7 @@
 Title: unicode小技巧
 Date: 2017-04-07 10:20
 Category: Tips
+Tags: python, unicode
 
 
 今天遇到一个问题

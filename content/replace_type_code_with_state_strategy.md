@@ -1,7 +1,7 @@
 Title: Replace Type Code With State/Strategy
 Date: 2016-12-26 20:55
 Modified: 2016-12-28 12:40
-Category: note
+Category: Note
 
 今天在阅读《重构：改善既有代码的设计》第一个案例中，遇到了一个**replace type code with state/strategy**的概念，不是很了解，
 但大概懂了意思。决定用`python`实现一下其代码。

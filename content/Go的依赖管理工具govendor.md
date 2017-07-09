@@ -1,6 +1,7 @@
 Title: Go的依赖管理工具govendor
 Date: 2017-05-22 18:11
-Category: note
+Category: Note
+Tags: go, vendor
 
 
 依赖管理是我接触 go 以来，觉得比较麻烦的事情。

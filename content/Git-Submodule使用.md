@@ -1,6 +1,7 @@
 Title: Git Submodule的使用
 Date: 2017-06-13 19:11
-Category: translation
+Category: Note
+Tags: git
 
 
 # Submodule介绍

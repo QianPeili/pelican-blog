@@ -1,6 +1,8 @@
 Title: 【翻译】 Nginx 如何处理一个请求
 Date: 2017-06-09 20:12
-Category: note
+Category: Translation
+Tags: nginx
+
 
 原文：[How nginx processes a request](http://nginx.org/en/docs/http/request_processing.html)
 

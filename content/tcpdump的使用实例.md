@@ -1,6 +1,7 @@
 Title: tcpdump的使用实例
 Date: 2017-05-20 13:46
 Category: Note
+Tags: linux, tcpdump
 Authors: QianPeili
 Summary: 给出了一些tcpdump的使用例子，实践才是学习的好办法~
 

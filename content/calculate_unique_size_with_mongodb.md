@@ -1,6 +1,7 @@
 Title: 用mongodb统计去重后的数量
 Date: 2017-03-16 18:11
-Category: tips
+Category: Tips
+Tags: mongodb
 
 
 假设有一个活动记录表，记录了玩家的参与信息，每个玩家有多条记录，格式如下
