@@ -8,7 +8,7 @@ SITENAME = u'爪了个子'
 SITETITLE = u"爪了个子(QianPeili)"
 SITESUBTITLE = u'我所见，我所想'
 # SITEURL = 'http://localhost:8000/'
-SITEURL = 'http://qianpeili.github.io'
+SITEURL = 'https://qianpeili.github.io'
 
 PATH = 'content'
 
